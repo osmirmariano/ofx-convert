@@ -1,0 +1,20 @@
+{
+  "name": "ofx-convert",
+  "version": "1.0.0",
+  "description": "Biblioteca para converter arquivo ofx para json e json para ofx para todos os formatos dos bancos. Para node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/osmirmariano/ofx-convert.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/osmirmariano/ofx-convert/issues"
+  },
+  "homepage": "https://github.com/osmirmariano/ofx-convert#readme"
+}
