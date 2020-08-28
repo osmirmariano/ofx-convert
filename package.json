@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/osmirmariano/ofx-convert/issues"
   },
-  "homepage": "https://github.com/osmirmariano/ofx-convert#readme"
+  "homepage": "https://github.com/osmirmariano/ofx-convert#readme",
+  "dependencies": {
+    "xml2json": "^0.12.0"
+  }
 }
