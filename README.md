@@ -17,4 +17,4 @@ Este projeto é licensiado sobre MIT License - [LICENSE.md](LICENSE.md) para mai
 
 ## Perfil ##
 * Criador: **Osmir Custódio Mariano** - osmirmarianocc@gmail.com
-* Link do npm https://www.npmjs.com/package/api-tamplete-node
+* Link do npm https://www.npmjs.com/package/ofx-convertjs
