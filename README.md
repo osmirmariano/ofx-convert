@@ -5,6 +5,8 @@
 ## Aplicação ##
 
 ```js
+const ofx = require('ofx-convertjs');
+
 const file = fs.readFileSync('exemplo.ofx', 'utf8')
 const data = ofx.toJson(file);
 ```
