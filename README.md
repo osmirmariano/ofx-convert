@@ -13,7 +13,7 @@ const data = ofx.toJson(file);
 
 ## License ##
 
-Este projeto é licensiado sobre MIT License - [LICENSE.md](LICENSE.md) para mais detalhes vide arquivo
+Este projeto é licenciado sobre MIT License - [LICENSE.md](LICENSE.md) para mais detalhes vide arquivo
 
 ## Perfil ##
 * Criador: **Osmir Custódio Mariano** - osmirmarianocc@gmail.com
