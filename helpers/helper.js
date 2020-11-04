@@ -12,6 +12,14 @@ const verifyXml = (xml) => {
 }
 
 /**
+ * Tratar XML
+ * @param {*} xml 
+ */
+const tratarXml = (xml) => {
+    return xml.replace(/<\/CODE>/g, "").replace(/<\/SEVERITY>/g, "")
+}
+
+/**
  * Treat object reponse
  * @param {*} object 
  * @param {*} header 
@@ -37,4 +45,4 @@ const treatsObject = (object, header) => {
     }
 }
 
-module.exports = { verifyXml, treatsObject }
+module.exports = { verifyXml, treatsObject, tratarXml }
