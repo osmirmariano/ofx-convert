@@ -1,6 +1,6 @@
 {
   "name": "ofx-convertjs",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Biblioteca para converter arquivo ofx para json e json para ofx para todos os formatos dos bancos. Para node.js",
   "main": "./lib/ofx.js",
   "directories": {
